@@ -19,6 +19,6 @@ import (
 )
 
 func main() {
-    fmt.Println(memefactory.MakeMeme("insert_meme"))
+    fmt.Println(memefactory.MakeMeme("insert_meme")) // 1Ns3r7_M3M3
 }
 ```
